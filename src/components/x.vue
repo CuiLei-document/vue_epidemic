@@ -1,12 +1,11 @@
 <template>
 <div>
-  <router-view />
+    404
 </div>
 </template>
 
 <script>
-import Home from './views/Home.vue'
+
 export default {
-  components:{Home}
 }
 </script>
